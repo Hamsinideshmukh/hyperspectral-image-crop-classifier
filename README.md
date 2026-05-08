@@ -306,4 +306,4 @@ Available at: [WHU Hyperspectral Dataset on Kaggle](https://www.kaggle.com/datas
 
 ---
 
-*Course Project — Multimedia Processing and Analysis (EC5110 -Dr.N.Kartheek), IITDM Kancheepuram. Built with TensorFlow on Kaggle GPU (CUDA). Team: ME23B2016, ME23B2010.*
+*Course Project — Multimedia Processing and Analysis (EC5110 -Dr.N.Kartheek), IIITDM Kancheepuram. Built with TensorFlow on Kaggle GPU (CUDA). Team: ME23B2016, ME23B2010.*
